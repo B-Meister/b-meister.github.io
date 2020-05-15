@@ -83,9 +83,9 @@ excerpt_length: 50
 #Colors on the Site - controlled by these variables 
 navbar-col: "#b73333"
 navbar-text-col: "#000000"
-navbar-border-col: "#EAEAEA"
+navbar-border-col: "#ffd400"
 page-col: "#ffffff"
-link-col: "#008AFF"
+link-col: "#ffd400"
 hover-col: "#0085A1"
 footer-col: "#b73333"
 footer-text-col: "#000000"
