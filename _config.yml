@@ -13,6 +13,7 @@ author: Bharath Gogineni
 
 navbar-links:
   About Me: "aboutme"
+  THE Page: "ThePage"
   Resources: #links to have on the website
     - Lambda Teaching Material: "https://learn.lambdaschool.com/course/ds"
     - A fun way to suck your life away: "https://www.reddit.com/"
