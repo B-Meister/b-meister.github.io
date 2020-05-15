@@ -14,9 +14,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources: #links to have on the website
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Lambda Teaching Material: "https://learn.lambdaschool.com/course/ds"
+    - A fun way to suck your life away: "https://www.reddit.com/"
+  Author's home during this course: "https://www.google.com"
 
 # --- Logo --- #
 
@@ -81,14 +81,14 @@ excerpt_length: 50
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 #Colors on the Site - controlled by these variables 
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+navbar-col: "#b73333"
+navbar-text-col: "#000000"
 navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
+page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#b73333"
+footer-text-col: "#000000"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
